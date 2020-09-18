@@ -1,7 +1,7 @@
 /*						MINI PROJECT: Car Racing 
   										By: Harish 	    1602-17-737-075
   	  									Manoj	            1602-17-737-115
-  	  									KumarSwami          1602-17-737-079			
+  	  									KumarSwamy          1602-17-737-079			
   	  					************* -> START RACING NOW <- **************										 */
 #include <GL/glut.h>
 #include<iostream>
